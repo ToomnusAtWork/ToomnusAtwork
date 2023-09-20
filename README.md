@@ -10,7 +10,7 @@
 For collaboration and learning.    
 
 
-I am bad at coding.
+I write spaghetti code.
 
 
 #### Language:
