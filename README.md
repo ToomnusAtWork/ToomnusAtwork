@@ -1,9 +1,5 @@
 # Hi! ToomnusAtwork here.
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/VTo5JzsXz2gak/giphy.gif" width="100">
-</div>
-
 
 [![Peranut's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToomnusAtWork&show_icons=true&theme=tokyonight)](https://github.com/ToomnusAtWork/github-readme-stats)
 
