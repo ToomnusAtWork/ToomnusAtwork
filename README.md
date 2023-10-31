@@ -1,26 +1,13 @@
-# Hi! I am [Peranut Toomnus](toomnusAtWork.github.io) 🙌🏻
+# Hi! I am [Peranut Toomnus](#toomnusAtWork.github.io) 🙌🏻
+
+![Banner](./image/Banner.png)
 
 
-<div >
-  <div>
-        <img src="https://media.giphy.com/media/8qcYTvEiKBGCI/giphy.gif" align="left" />
-  </div>
-  <div align="right">
-    <br>
-    <br>
-    
-[![Peranut's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToomnusAtWork&show_icons=true&theme=tokyonight)](https://github.com/ToomnusAtWork/github-readme-stats)
-  </div>
-</div>
-<br>
-<br>
-
-
-- 🏫I study at Silpakorn University.
-- 🍝I like write spaghetti code.
-- 🧑🏽‍💻I'm currently learning PHP and Javascript.
-- 🗿I don't use arch btw (yet).
-- 🐝(Fun fact!): My favourite show is Bee & Puppycat.
+- 🏫 I study at **Silpakorn University**.
+- 🍝 I like write spaghetti code.
+- 🧑🏽‍💻 I'm currently learning **PHP** and **Javascript**.
+- 🗿 I don't use arch btw **(yet)**.
+- 🐝 **(Fun fact!):** My favourite show is Bee & Puppycat.
 
 
 ### Language:
