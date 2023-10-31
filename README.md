@@ -2,27 +2,25 @@
 
 ![Banner](./image/Banner.png)
 
-    
+
+<p>
+<div id="puppycat" align="right">
+    <img width=45% src="https://media.giphy.com/media/8qcYTvEiKBGCI/giphy.gif" align="left" />
+</div>
+<br>
+
+[![Peranut's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToomnusAtWork&show_icons=true&theme=tokyonight)](https://github.com/ToomnusAtWork/github-readme-stats)
+</p>
+<br>
+<br>
+
+
+### About
 - 🏫 I study at **Silpakorn University**.
 - 🍝 I like write spaghetti code.
 - 🧑🏽‍💻 I'm currently learning **PHP** and **Javascript**.
 - 🗿 I don't use arch btw **(yet)**.
 - 🐝 **(Fun fact!):** My favourite show is Bee & Puppycat.
-    
-<p>
-<div id="puppycat" align="right">
-    <img width=40% src="https://media.giphy.com/media/8qcYTvEiKBGCI/giphy.gif" align="left" />
-</div>
-
-  [![Peranut's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToomnusAtWork&show_icons=true&theme=tokyonight)](https://github.com/ToomnusAtWork/github-readme-stats)
-</p>
-
-
-
-
-
-<br>
-<br>
 
 
 
