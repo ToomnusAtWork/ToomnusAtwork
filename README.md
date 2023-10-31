@@ -2,12 +2,29 @@
 
 ![Banner](./image/Banner.png)
 
-
+<div>
+  <div id="info" align="left">
+    
 - 🏫 I study at **Silpakorn University**.
 - 🍝 I like write spaghetti code.
 - 🧑🏽‍💻 I'm currently learning **PHP** and **Javascript**.
 - 🗿 I don't use arch btw **(yet)**.
 - 🐝 **(Fun fact!):** My favourite show is Bee & Puppycat.
+    
+  </div>
+  <div id="status">
+    
+[![Peranut's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToomnusAtWork&show_icons=true&theme=tokyonight)](https://github.com/ToomnusAtWork/github-readme-stats)
+  </div>
+</div>
+
+
+<div id="puppycat" align="right">
+    <img src="https://media.giphy.com/media/8qcYTvEiKBGCI/giphy.gif" align="left" />
+</div>
+<br>
+<br>
+
 
 
 ### Language:
