@@ -14,10 +14,10 @@
 
 ### About
 - 🏫 I study at **Silpakorn University**.
-- 🍝 I like write spaghetti code.
+- 📝 Typo often come from me lol.
 - 🧑🏽‍💻 I'm currently learning **PHP** and **Javascript**.
 - 🗿 I don't use arch btw **(yet)**.
-- 🐝 **(Fun fact!):** My favourite show is Bee & Puppycat.
+- 🙇🏻‍♂️ **(But):** I will surely fix code and organize it.
 
 
 
