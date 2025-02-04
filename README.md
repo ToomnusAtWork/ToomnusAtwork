@@ -3,7 +3,6 @@
 
 ![Banner](./image/Banner.png)
 
-
 <p>
 <div id="puppycat" align="right">
     <img width=40% src="https://media.giphy.com/media/8qcYTvEiKBGCI/giphy.gif" align="left" />
