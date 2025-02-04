@@ -11,7 +11,7 @@
 
 
 [![Peranut's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToomnusAtWork&show_icons=true&theme=tokyonight)](https://github.com/ToomnusAtWork/github-readme-stats)
-</p>
+</p>\
 
 
 ### About
@@ -21,7 +21,7 @@
 - 🗿 I don't use arch btw **(yet)**.
 - 🙇🏻‍♂️ **(But):** I will surely fix code and organize it.
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 
 
 ### Language:
